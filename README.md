@@ -1,1 +1,3 @@
 # SouthPark-CardGame-Exploratory
+
+Projeto em produção utilizando Orange Canvas...
